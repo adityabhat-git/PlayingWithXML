@@ -1,0 +1,15 @@
+<RootElement>
+  <PrevPackages>
+    <Package>
+      <H_PackageType>Silver</H_PackageType>
+      <H_PackageExpiringNumberOfInstallaments>0</H_PackageExpiringNumberOfInstallaments>
+      <H_PackageExpiringDepositAmount>0</H_PackageExpiringDepositAmount>
+      <H_PackageExpiringDiscountApplied>0</H_PackageExpiringDiscountApplied>
+      <Coverages></Coverages>
+    </Package>
+  </PrevPackages>
+  <Packages>
+    <H_PackageType>Silver</H_PackageType>
+    <H_PackageIsSelected>0</H_PackageIsSelected>
+  </Packages>
+</RootElement>
